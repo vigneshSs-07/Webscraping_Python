@@ -1,0 +1,5 @@
+
+https://www.datacamp.com/community/tutorials/amazon-web-scraping-using-beautifulsoup
+https://realpython.com/beautiful-soup-web-scraper-python/
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
+https://towardsdatascience.com/web-scraping-5649074f3ead
